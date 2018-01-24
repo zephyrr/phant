@@ -1,5 +1,8 @@
 # phant [![Build Status](https://secure.travis-ci.org/sparkfun/phant.svg?branch=master)](http://travis-ci.org/sparkfun/phant)
 
+ZSS: see https://forum.sparkfun.com/viewtopic.php?f=44&t=40143 and https://github.com/sparkfun/phant/issues/200 for fix to problem running locally
+
+
 ### Phant is No Longer in Operation
 
 Unfortunately Phant, our data-streaming service, is no longer in service
